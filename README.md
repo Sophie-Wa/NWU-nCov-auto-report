@@ -1,6 +1,8 @@
 # 西北大学nCov自动填报脚本（支持Github Actions）
-
-
+## 网页版已经G了，有需要的，直接考虑Github Actions方法吧：  
+## 点击下方连接，F12，CTRL+F，然后登录，搜cookie，就可以找到UUKEY和EAI_SESS
+## [获取cookie](https://app.nwu.edu.cn/site/ncov/dailyup )  
+  
 如果项目对你有帮助记得Star一下哦~  
 欢迎PR、Issue ~~或者面基~~。
 
